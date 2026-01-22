@@ -1,0 +1,5 @@
+{
+  "name": "Smart Daily Planner",
+  "description": "A minimalist daily task manager with AI-powered end-of-day summarization to keep you motivated and productive.",
+  "requestFramePermissions": []
+}
